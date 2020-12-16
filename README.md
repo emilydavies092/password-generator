@@ -1,5 +1,5 @@
 # password-generator
-This website is a randomized password generator.
+The website https://emilydavies092.github.io/password-generator/ is a randomized password generator.
 
 To create a new, secured password:
 
